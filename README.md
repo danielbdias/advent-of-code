@@ -7,3 +7,5 @@ Each year I'll try to solve the problems using a different programming language 
 ## Challenges taken
 
 - [2020](https://adventofcode.com/2020): Go
+- [2020](https://adventofcode.com/2021): Ruby
+- [2022](https://adventofcode.com/2022): Typescript
