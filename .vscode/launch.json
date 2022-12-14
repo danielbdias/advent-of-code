@@ -1,0 +1,18 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Debug Adv 2022 - Day05",
+        "program": "${workspaceFolder}/2002/day-05/index.ts",
+
+        "cwd": "${workspaceFolder}/2022",
+        "preLaunchTask": "tsc: build - adv/tsconfig.json",
+        "outFiles": ["${workspaceFolder}/out/**/*.js"],
+      }
+    ]
+  }
